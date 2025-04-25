@@ -231,11 +231,11 @@ section {
 }
 
 .fa-github {
-    color: #ffffff;
+    color: #6e5494;
     transition: color 0.3s;
   }
   .fa-github:hover {
-    color: #6e5494;
+    color: #ffffff;
   }
 
 @media (max-width: 768px) {
